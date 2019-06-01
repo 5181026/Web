@@ -1,0 +1,26 @@
+@charset "UTF-8";
+
+body{
+
+}
+
+ul{
+	display: inline-block;
+	list-style: none;
+}
+
+header{
+	margin: 0px;
+	padding:25px 0;
+	text-align: center;
+	background: skyblue;
+}
+
+.input{
+	display:flex;
+	margin: 5px;
+}
+
+.inputHeader{
+	width: 100px;
+}
